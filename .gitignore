@@ -7,4 +7,5 @@ lib/more
 lib/table
 lib/test-runner
 lib/touch
+lib/slick
 lib/widgets
