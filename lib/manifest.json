@@ -17,7 +17,9 @@
 		},
 		"mootools-more": {
 			"dir":"more",
-			"track-indirect": "more.hash"
+			"track-indirect": "more.hash",
+			"from-remote": "anutron",
+			"remotes": ["anutron"]
 		},
 		"art": {
 			"dir":"art",
