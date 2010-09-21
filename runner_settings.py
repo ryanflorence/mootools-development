@@ -56,6 +56,7 @@ DEPENDER_PACKAGE_YMLS = (
   os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "color", "package.yml")),
   os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "table", "package.yml")),
   os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "widgets", "package.yml")),
+  os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "slick", "package.yml")),
   os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "depender", "client", "package.yml")),
 )
 DEPENDER_SCRIPTS_JSON = []
